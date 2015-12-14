@@ -1,0 +1,7 @@
+photo-subject-location-person/specifics-number-special
+
+Subject = general subject of photo, like staff or resident
+Location = where it was shot
+Person/specifics = if it's of a specific person or thing, say so
+Number = unique number to prevent conflicts, not always needed
+Special = special resolutions, single use images, thumbnails, etc
